@@ -48,4 +48,9 @@ export const styles = StyleSheet.create({
   avatarImage: {
     backgroundColor: "#80858F",
   },
+  dotsIcon:{
+    position:'absolute',
+    right:scaledValue(16),
+    top:scaledValue(6)
+  }
 });
