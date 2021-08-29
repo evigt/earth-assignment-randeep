@@ -15,6 +15,7 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     backgroundColor: "#3C5367",
     paddingTop: scaledValue(29),
+    paddingBottom:scaledValue(2.2)
   },
   networksCardView: {
     backgroundColor: "#282D3F",
