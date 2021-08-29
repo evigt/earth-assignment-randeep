@@ -37,6 +37,7 @@ export const styles = StyleSheet.create({
   currencyStatistics: {
     color: "#55D171",
     textAlign: "right",
+    fontSize:scaledValue(12)
   },
   currencyPriceView: {},
   cardTextView: {
